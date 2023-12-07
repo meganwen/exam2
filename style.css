@@ -1,0 +1,37 @@
+header, main, nav, footer, section, article, figure, figcaption, aside { display: block; }
+
+body { 	background-color: #1999B7;
+		color: #535556;
+		font-family: Arial, Verdana, sans-serif;
+		font-size:15px;
+}
+#container { margin-right:auto;
+			margin-left:auto;
+			width:965px;
+			background-color:white;
+}	
+nav{	font-weight:bold;
+		background-color:#F7B947;
+		color:#0d74bf;
+		font-size:1.5em;
+		padding:10px;
+		
+}
+nav a { text-decoration:none;
+}	
+		
+main {
+		padding:10px;
+		
+}			
+ 
+footer 	{	background-color:#f7b947;
+		color:#0d74bf;
+		font-style:italic;
+		font-size:.8em;
+		text-align:center;
+		padding:5px;
+}
+
+
+
